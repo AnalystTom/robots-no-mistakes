@@ -1,0 +1,3 @@
+interface:
+  display_name: "Robots Check"
+  short_description: "Prepare and drive a no-mistakes validation with preserved intent"
